@@ -16,16 +16,16 @@ EasyCulture/
 │   ├── ATCC_CCM_NCIMB/      # Supplementary sequence
 │   └── test_sequences/      # Test sequence
 │
-├── 3_PredictionModels/      # 预测模型
-│   ├── GenomeSPOT/          # 生理特征预测模型
-│   ├── MicroBoost/          # K-mer XGBoost 培养基预测
-│   └── ARG_Database/        # 抗性基因数据库
+├── 3_PredictionModels/      # Predictive Model
+│   ├── GenomeSPOT/          # Physiological feature prediction model
+│   ├── MicroBoost/          # K-mer XGBoost culture medium prediction
+│   └── ARG_Database/        # Resistance gene database
 │
-├── 4_MainSystem/            # 主系统代码
-│   ├── EasyCulture_Main.py # 主程序（整合版）
-│   └── config.py            # 配置文件
+├── 4_MainSystem/            # Main system code
+│   ├── EasyCulture_Main.py  # Main program (integrated version)
+│   └── config.py            # Configuration file
 │
-├── 5_Database/              # 数据库文件
+├── 5_Database/              # Database file
 │   ├── dsmz_full_database.csv
 │   ├── JCM数据库全部爬取.csv
 │   ├── MediaDive培养基信息.xlsx
@@ -143,6 +143,7 @@ JIYINZU Research Team
 
 ## 📄 许可证
 MIT License
+
 
 
 
