@@ -132,7 +132,7 @@ EasyCulture_Main.batch_analyze("genome_folder/")
 
 ## 📝 更新日志
 
-### V1.0 (2025-12-20)
+### V1.1 (2026-3-11)
 - 整合所有功能模块
 - 统一项目结构
 - 添加 MicroBoost XGBoost 模型
@@ -143,3 +143,4 @@ JIYINZU Research Team
 
 ## 📄 许可证
 MIT License
+
