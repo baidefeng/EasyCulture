@@ -42,13 +42,13 @@ EasyCulture/
     └── logs/                # Run log
 ```
 
-## 🚀 功能模块
+## 🚀 Functional modules
 
-### 1. 数据爬取模块 (1_DataCrawlers)
-- **DSMZ 爬虫**: 爬取 DSMZ 菌株信息和培养条件
-- **JCM 爬虫**: 爬取 JCM 数据库序列
-- **MediaDive 爬虫**: 提取培养基成分信息
-- **序列补充**: 从 NCBI 补充 ATCC/CCM/NCIMB 序列
+### 1. Data download module (1_DataDownload)
+- **DSMZ download**: Download information on DSMZ strains and culture conditions.
+- **JCM download**: Download JCM database sequence
+- **MediaDive download**: Extracting information on culture medium composition
+- **Sequence completion**: Supplement ATCC/CCM/NCIMB sequences from NCBI
 
 ### 2. 序列数据管理 (2_SequenceData)
 - 统一存储各数据库的基因组序列
@@ -143,6 +143,7 @@ JIYINZU Research Team
 
 ## 📄 许可证
 MIT License
+
 
 
 
