@@ -47,7 +47,8 @@ EasyCulture/
 
 ## 🌐 Online prediction platform
 - We have developed and released the online prediction platform EasyCulture, which is available for free to everyone.
-https://bic.ac.cn/EasyCulture/#/Easyanalysis
+
+Website link: https://bic.ac.cn/EasyCulture/#/Easyanalysis
 
 ## 🚀 Functional modules
 
@@ -147,6 +148,7 @@ EasyCulture_Main.batch_analyze("genome_folder/")
 
 ## 👥 Author
 Defeng Bai (baidefeng@caas.cn), Yu qiao, Yong-Xin Liu (liuyongxin@caas.cn)
+
 
 
 
