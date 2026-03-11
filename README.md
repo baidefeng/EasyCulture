@@ -1,20 +1,20 @@
 # EasyCulture - Intelligent prediction system for microbial culture conditions
 
-## 📁 项目结构
+## 📁 Project Structure
 
 ```
 EasyCulture/
-├── 1_DataCrawlers/          # 数据爬取脚本
-│   ├── DSMZ/                # DSMZ 数据库爬虫
-│   ├── JCM/                 # JCM 数据库爬虫
-│   ├── MediaDive/           # MediaDive 培养基信息爬虫
-│   └── ATCC_CCM_NCIMB/      # 其他菌种库序列补充
+├── 1_DataDownload/          # Data download script
+│   ├── DSMZ/                # DSMZ database download
+│   ├── JCM/                 # JCM database download
+│   ├── MediaDive/           # MediaDive culture medium information download
+│   └── ATCC_CCM_NCIMB/      # Other strains and sequences supplemented
 │
-├── 2_SequenceData/          # 序列数据存储
-│   ├── DSMZ_sequences/      # DSMZ 菌株序列
-│   ├── JCM_sequences/       # JCM 菌株序列
-│   ├── ATCC_CCM_NCIMB/      # 补充序列
-│   └── test_sequences/      # 测试序列
+├── 2_SequenceData/          # Sequence data storage
+│   ├── DSMZ_sequences/      # DSMZ strain sequence
+│   ├── JCM_sequences/       # JCM strain sequence
+│   ├── ATCC_CCM_NCIMB/      # Supplementary sequence
+│   └── test_sequences/      # Test sequence
 │
 ├── 3_PredictionModels/      # 预测模型
 │   ├── GenomeSPOT/          # 生理特征预测模型
@@ -143,6 +143,7 @@ JIYINZU Research Team
 
 ## 📄 许可证
 MIT License
+
 
 
 
