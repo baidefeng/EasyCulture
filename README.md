@@ -1,7 +1,7 @@
 # EasyCulture - Intelligent prediction system for microbial culture conditions
-  EasyCulture is an intelligent platform designed for microbial cultivation research. By analyzing genome sequences, it automatically infers cultivation clues, helping researchers design media, predict physiological traits, and generate actionable culture recommendations. The platform integrates gene prediction, functional annotation, media recommendation, GenomeSPOT-based physiological inference, BacDive-AI phenotype prediction, and resistance/nutrient preference analysis to support the cultivation of difficult-to-culture microbes and newly isolated strains.
+- EasyCulture is an intelligent platform designed for microbial cultivation research. By analyzing genome sequences, it automatically infers cultivation clues, helping researchers design media, predict physiological traits, and generate actionable culture recommendations. The platform integrates gene prediction, functional annotation, media recommendation, GenomeSPOT-based physiological inference, BacDive-AI phenotype prediction, and resistance/nutrient preference analysis to support the cultivation of difficult-to-culture microbes and newly isolated strains.
   
-  Whether you are exploring cultivation conditions directly from whole-genome data or optimizing carbon sources, nitrogen sources, and electron acceptors based on functional genes, EasyCulture transforms complex bioinformatics outputs into clear and practical experimental guidance—helping you move faster from sequence to culture.
+- Whether you are exploring cultivation conditions directly from whole-genome data or optimizing carbon sources, nitrogen sources, and electron acceptors based on functional genes, EasyCulture transforms complex bioinformatics outputs into clear and practical experimental guidance—helping you move faster from sequence to culture.
 
 ## 📁 Project Structure
 
@@ -46,7 +46,8 @@ EasyCulture/
 ```
 
 ## 🌐 Online prediction platform
-- 
+- We have developed and released the online prediction platform EasyCulture, which is available for free to everyone.
+https://bic.ac.cn/EasyCulture/#/Easyanalysis
 
 ## 🚀 Functional modules
 
@@ -146,6 +147,7 @@ EasyCulture_Main.batch_analyze("genome_folder/")
 
 ## 👥 Author
 Defeng Bai (baidefeng@caas.cn), Yu qiao, Yong-Xin Liu (liuyongxin@caas.cn)
+
 
 
 
