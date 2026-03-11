@@ -133,11 +133,12 @@ EasyCulture_Main.batch_analyze("genome_folder/")
 ## 📝 Update log
 
 ### V1.1 (2026-3-11)
-- 整合所有功能模块
-- 统一项目结构
-- 添加 MicroBoost XGBoost 模型
-- 优化代码组织
+- Integrate all functional modules
+- Unified project structure
+- Add MicroBoost and XGBoost models
+- Optimize code organization
 
 ## 👥 Author
-Defeng Bai, Yu qiao, Yong-Xin Liu
+Defeng Bai (baidefeng@caas.cn), Yu qiao, Yong-Xin Liu (liuyongxin@caas.cn)
+
 
