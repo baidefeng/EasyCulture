@@ -1,5 +1,4 @@
 # EasyCulture - Intelligent prediction system for microbial culture conditions
-EasyCulture - 智能微生物培养系统
 
 ## 📁 项目结构
 
@@ -144,5 +143,6 @@ JIYINZU Research Team
 
 ## 📄 许可证
 MIT License
+
 
 
