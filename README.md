@@ -149,6 +149,8 @@ EasyCulture_Main.batch_analyze("genome_folder/")
 ## 👥 Author
 Defeng Bai (baidefeng@caas.cn), Yu qiao, Yong-Xin Liu (liuyongxin@caas.cn)
 
+## 📚 Citation
+If used this project, please cited: Bai, Defeng, Tong Chen, ..., Yong‐Xin Liu**. 2025. “EasyMetagenome: A User‐Friendly and Flexible Pipeline for Shotgun Metagenomic Analysis in Microbiome Research.” iMeta 4: e70001. https://doi.org/10.1002/imt2.70001(Highly Cited)
 
 
 
