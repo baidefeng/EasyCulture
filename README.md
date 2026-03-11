@@ -27,19 +27,19 @@ EasyCulture/
 │
 ├── 5_Database/              # Database file
 │   ├── dsmz_full_database.csv
-│   ├── JCM数据库全部爬取.csv
-│   ├── MediaDive培养基信息.xlsx
-│   └── 菌株保藏机构统计.csv
+│   ├── JCM_database_download.csv
+│   ├── MediaDive_medium_info.xlsx
+│   └── ATCC_CCM_NCIMB_sequence_completion_results.csv
 │
-├── 6_Tools/                 # 工具脚本
-│   ├── sequence_counter.py  # 序列统计工具
-│   ├── strain_statistics.py # 菌株统计工具
-│   └── database_builder.py  # 数据库构建工具
+├── 6_Tools/                 # Tool script
+│   ├── sequence_counter.py  # Sequence statistics tools
+│   ├── strain_statistics.py # Strains statistics tools
+│   └── database_builder.py  # Database building tools
 │
-└── 7_Results/               # 分析结果输出
-    ├── predictions/         # 预测结果
-    ├── reports/             # 分析报告
-    └── logs/                # 运行日志
+└── 7_Results/               # Analysis results output
+    ├── predictions/         # Prediction results
+    ├── reports/             # Analysis report
+    └── logs/                # Run log
 ```
 
 ## 🚀 功能模块
@@ -143,6 +143,7 @@ JIYINZU Research Team
 
 ## 📄 许可证
 MIT License
+
 
 
 
